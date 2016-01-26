@@ -4,6 +4,10 @@ Parse this type of XML
 
 ![Settings Window](https://github.com/aman007jham/Rss_Reader_Android_Parse_XML/blob/master/rss.png)
 
+
+![alt-text-1](https://github.com/aman007jham/Rss_Reader_Android_Parse_XML/blob/master/1.png "VIEW-1") ![alt-text-2](https://github.com/aman007jham/Rss_Reader_Android_Parse_XML/blob/master/2.png "VIEW-2")
+
+
 RSS Parser
 
        try {
