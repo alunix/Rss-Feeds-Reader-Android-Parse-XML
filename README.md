@@ -1,6 +1,6 @@
-# Rss_Reader_Android_Parse_XML
+# Rss-Feeds-Reader-Android-Parse-XML
 
-Parse this type of XML
+Parse this type of Rss Feeds XML
 
 ![Settings Window](https://github.com/aman007jham/Rss_Reader_Android_Parse_XML/blob/master/rss.png)
 
